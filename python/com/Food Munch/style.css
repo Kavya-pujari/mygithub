@@ -1,0 +1,187 @@
+*{
+    color: #323f4b;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#navItem-2{
+    color: #323f4b;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#navItem-3{
+    color: #323f4b;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#navItem-4{
+    color: #323f4b;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.food-munch-logo{
+    height: 70px;
+    width: 80px;
+}
+.banner-section-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}.banner-heading{
+    color: white;
+    font-size: 45px;
+    font-weight: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.banner-caption{
+    color: white;
+    font-size: 24px;
+    font-weight: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.custom-button{
+    height: 45px;
+    width: 130px;
+    font-size: 20px;
+    color: white;
+    border-radius: 8px;
+    margin-right: 10px;
+    background-color: goldenrod;
+    border-width: 0px;
+}
+.custom-button-1{
+    height: 45px;
+    width: 130px;
+    color: #d0b200;
+    background-color: transparent;
+    border-width: 1px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #d0b200;
+}
+.wb-section{
+    background-color: #f9fbfe;
+
+}
+.para-discription{
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 300px;
+    margin-top: 5px;
+}
+.card1{
+    text-align: center;
+    background-color: white;
+    border-color: #e5eaf4;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    
+}.img{
+    padding: 15px;
+
+}.heading2{
+    margin-top: 10px;
+}.offer{
+    font-size: 25px;
+    font-weight: 600;
+    
+}
+.explore-menu-section{
+    background-color: white;
+}
+.head{
+    font-size: 28px;
+    font-weight: 700;
+    color: #183b56;
+}
+.img-item{
+    border-radius: 50px;
+}.head1{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 20px;
+}.anc{
+    font-size: 14px;
+    font-weight: 500;
+    color: #d0b200;
+}
+.menu-item-card{
+    border-radius: 16px;
+}.healthy-food-button{
+    padding: 8px;
+    border-radius: 10px;
+    background-color: #d0b200;
+    color: white;
+}.healthy-food-heading{
+    font-weight: 800;
+}
+.delivary-button{
+    color: white;
+    background-color: #d0b200;
+    padding: 10px;
+    border-radius: 10px;
+    width: 150px;
+}.thinking-button{
+    color: white;
+    background-color: #d0b200;
+    padding: 10px;
+    border-radius:10px;
+    width: 150px;
+    background-image: linear-gradient(#d0b200,#a58d00);
+}.images2{
+    height: 70%;
+    width: 70%;
+}
+.visa{
+    
+    
+    
+    width: 50px;
+    margin-left: 5px;
+}.thinking-img{
+    width: 270px;
+    margin-bottom: 20px;
+}
+.delivery-image{
+    margin-left: 10px;
+}.thinking-img2{
+    width: 270px;
+    margin-bottom: 20px;
+
+
+
+}
+.icon{
+    font-size: 35px;
+    color: #d0b200;
+    
+    
+}
+.fallow-head{
+    font-size: 45px;
+    font-weight: 800;
+    font-style: italic;
+    align-items: center;
+    text-align: center;
+}.fallow-icon{
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: #faf7e8;
+    padding-left: 22px;
+    padding-right: 16px;
+    padding-bottom: 14px;
+    padding-top: 22px;
+    margin: 15px;
+    border-radius: 40px;
+}.model-section2{
+    color: #d0b200;
+    font-weight: 800;
+}.imag-body-3{
+    width: 80%;
+    height: 80%;
+    align-items: center;
+}
+.thinking{
+    background-image: radial-gradient(#fff8db,#fae38e);
+    padding: 20px;
+    border-radius: 40px;
+    
+}
