@@ -1,0 +1,312 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-size: 18px;
+  }
+  
+  a {
+    color: #003249;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  header {
+    width: 100%;
+    height: 64px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+    border-bottom: 2px solid #003249;
+  }
+  
+  .logo {
+    display: flex;
+  }
+  
+  .logo1 {
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .logo2 {
+    text-transform: uppercase;
+  }
+  
+  #top {
+    display: block;
+  }
+  
+  #top a {
+    margin-left: 16px;
+  }
+  
+  #learn {
+    padding: 32px 24px;
+    display: flex;
+  }
+  
+  #learn h1 {
+    font-size: 2rem;
+    line-height: 1.8rem;
+  } 
+  
+   #learn h2 {
+    font-size: 1rem;
+    margin: 32px 0 24px 0;
+  }
+  
+  button {
+    color: red;
+    border: 0;
+    font-family: "Oxygen", sans-serif;
+    font-size: 1rem;
+    padding: 8px 0;
+    border: 2px solid darkblue;
+  }
+  
+  button:hover {
+    color: darkred;
+  }
+  
+  .main-image {
+    width: 60%;
+    height: auto;
+  }
+  
+  .img-header {
+    width: 100%;
+    height: auto;
+  }
+  
+  .learn-new {
+    display: flex;
+    flex-flow: wrap column;
+    justify-content: center;
+    margin-left: 40px;
+  }
+  
+  #practice {
+    display: flex;
+  }
+  
+  #practice h1 {
+    font-size: 2rem;
+    line-height: 1.8rem;
+    margin: 32px 0 24px 0;
+  }
+  
+  #practice h3 {
+    font-size: 1.5rem;
+  }
+  
+  #practice h4 {
+    font-size: 0.8rem;
+    margin: 8px 0;
+  }
+  
+  #practice a {
+    text-decoration: underline;
+  }
+  
+  #practice a:hover {
+    text-decoration: none;
+  }
+  
+  .main-practice {
+    padding: 32px 24px;
+    border-right: 1px solid #007ea7;
+  }
+  
+  .practice-img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .img-practice {
+    width: 100%;
+    height: auto;
+  }
+  
+  .quoted {
+    margin: 20px 0;
+    font-weight: bold;
+  }
+  
+  .campus-info {
+    min-width: 423px;
+  }
+  
+  .campus-info1 {
+    display: flex;
+    min-height: 168px;
+    border-bottom: 1px solid #007ea7;
+  }
+  
+  .img-campus-info {
+    max-width: 33%;
+    height: auto;
+    margin: 16px;
+  }
+  
+  .img-campus-info1 {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* .img-campus-info-mobile {
+    display: none;
+  } */
+  
+  .info-text {
+    display: flex;
+    flex-flow: wrap column;
+    justify-content: center;
+    margin-right: 8px;
+  }
+  
+  #learning {
+    padding-bottom: 16px;
+  }
+  
+  #learning h1 {
+    font-family: "Rufina", serif;
+    font-size: 2rem;
+    padding: 32px 0 16px 0;
+    text-align: center;
+  }
+  
+  #learning h2 {
+    font-size: 1.5rem;
+    margin: 16px 0;
+  }
+  
+  #learning h3 {
+    font-size: 1rem;
+    margin: 8px 0;
+  }
+  
+  .courses {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: auto;
+  }
+  
+  .course {
+    width: 30%;
+    margin: 16px;
+    padding-bottom: 24px;
+  }
+  
+  .course-txt {
+    padding: 16px 16px;
+  }
+  
+  .course-img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .course-img1 {
+    width: 100%;
+    height: auto;
+  }
+  
+  #thesis h1 {
+    font-size: 2rem;
+    padding: 32px 0;
+    text-align: center;
+  }
+  
+  #thesis h3 {
+    font-size: 1.5rem;
+  }
+  
+  #thesis h4 {
+    font-size: 0.8rem;
+    margin: 8px 0;
+  }
+  
+  .thesis1 {
+    width: 100%;
+    display: flex;
+  }
+  
+  .video-thesis {
+    height: auto;
+    width: 100%;
+    padding-left: 24px;
+  }
+  
+  video {
+    height: auto;
+    width: 100%;
+  }
+  
+  .thesis-text {
+    margin: 24px 0 32px 24px;
+  }
+  
+  .thesis-text p {
+    margin-top: 16px;
+  }
+  
+  .info {
+    min-width: 423px;
+    margin-left: 16px;
+  }
+  
+  .info1 {
+    min-height: 168px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .thesis-img {
+    max-width: 35%;
+    height: auto;
+    margin: 16px;
+  }
+  
+  .thesis-img1{
+    width: 100%;
+    height: auto;
+  }
+  
+  .thesis-text1 {
+    display: flex;
+    flex-flow: wrap column;
+    justify-content: center;
+    margin-right: 8px;
+  }
+  
+  footer {
+    color: #003249;
+    padding: 0 24px;
+    border-top: 2px solid #003249;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .copyright {
+    display: block;
+    padding: 16px 0;
+  }
+  
+  footer a {
+    display: inline-block;
+    margin: 16px 0 0 16px;
+    text-decoration: underline;
+  }
+  
+  footer a:hover {
+    text-decoration: none;
+  }
